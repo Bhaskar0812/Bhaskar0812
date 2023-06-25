@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Bhaskar0812
-- 👀 Coding is my lifeline..
-- 🌱 I’m currently learning node js and kafka
-- 💞️ I’m looking to collaborate on react js, php, react native, codeigniter,javascript,jquery,mysql
-- 📫 How to reach me bhaskarsharmamanish@gmail.com
+- 👀 Frontend and backend developer..
+- 🌱 I'm currently working on ongoing latest trend web and mobile app development technologies i.e. React JS, Next JS, React Native, Node JS.
+- 💞️ I’m looking to collaborate on react js, php, react native, Codeigniter, javascript, jquery, MySQL
+- 📫 Reach me @ bhaskarsharmamanish@gmail.com
 
-<!---
-Bhaskar0812/Bhaskar0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
